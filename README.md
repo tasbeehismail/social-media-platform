@@ -18,7 +18,7 @@ A simple application to handle users, posts, and comments
 - Application on Render: https://social-media-platform-4anw.onrender.com
 
 ## Documentation 
-[Postman](https://documenter.getpostman.com/view/34627138/2sA3XJmkVc#9a80206f-430e-49df-8ed3-ea4e8f965196)
+### [Postman](https://documenter.getpostman.com/view/34627138/2sA3XJmkVc#9a80206f-430e-49df-8ed3-ea4e8f965196)
 
 ## Schema
 ![ERD](https://github.com/tasbeehismail/social-media-platform/blob/main/diagrams/schema.png)
