@@ -1,5 +1,4 @@
 # Social Media Platform
-A simple application to handle users, posts, and comments
 
 ## Requirments 
 1. Define a Sequelize model for users with the following fields: username, email, and password.
